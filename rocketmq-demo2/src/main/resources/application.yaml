@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: rocketmq-demo2
+rocketmq:
+    name-server: 124.223.91.22:9876
+    producer:
+        group: boot2-producer-group
+#        开启生产者的消息轨迹功能
+        enable-msg-trace: true

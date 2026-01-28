@@ -1,0 +1,14 @@
+# spring
+spring:
+    application:
+        name: rocketmq-demo3
+
+
+# rocketmq
+rocketmq:
+    name-server: 124.223.91.22:9876
+
+
+# server
+server:
+    port: 8081
