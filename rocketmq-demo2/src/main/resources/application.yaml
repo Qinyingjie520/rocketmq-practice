@@ -7,3 +7,5 @@ rocketmq:
         group: boot2-producer-group
 #        开启生产者的消息轨迹功能
         enable-msg-trace: true
+        access-key: rocketmq2
+        secret-key: 12345678

@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/rocketmq-demo1/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-demo2/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-demo4-seckill-web/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-demo5-seckill-service/pom.xml" />
       </list>
     </option>
   </component>
